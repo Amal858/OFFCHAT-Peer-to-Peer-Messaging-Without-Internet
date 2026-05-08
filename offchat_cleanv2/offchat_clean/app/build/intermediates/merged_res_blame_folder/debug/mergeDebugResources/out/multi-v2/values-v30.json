@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.offchat.app-mergeDebugResources-68:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aamal\\.gradle\\caches\\8.9\\transforms\\17ce471f89a0d2c353bad5b75fbfd085\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
