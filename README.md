@@ -56,5 +56,4 @@ The application follows a layered architecture including:
 * Aadith P Santhosh
 * Amal Krishna C S
 * Arfan BT
-* Arfan BT
 
